@@ -14,7 +14,7 @@ main:
     url: 'https://aovgun.weebly.com/members.html'
     weight: 30
   - name: Publications
-    url: 'https://aovgun.weebly.com/publications.html'
+    url: '/publications/'
     weight: 40
   - name: Press/Media
     url: 'https://aovgun.weebly.com/news.html'
