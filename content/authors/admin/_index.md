@@ -106,7 +106,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: https://physics.emu.edu.tr/Pages/stafffile.aspx?sid=295&ft=.pdf&n=ali-ovgun
+    link: https://aovgun.weebly.com/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ali.ovgun@emu.edu.tr ''
