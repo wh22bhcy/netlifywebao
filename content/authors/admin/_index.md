@@ -143,32 +143,15 @@ email: ali.ovgun@emu.edu.tr
 highlight_name: true
 ---
 
-Prof. Dr. Ali Övgün is a Professor of Theoretical Physics at Eastern Mediterranean University. In 2026, at the age of 38, he was appointed full professor, making him one of the youngest academics to attain this rank in his field at the university. His research lies at the interface of quantum gravity, cosmology, particle physics, and astrophysics, with particular emphasis on quantum gravity and its implications for black hole physics and cosmology beyond their standard models.
+**Prof. Dr. Ali Övgün** is a **Professor of Theoretical Physics** at **Eastern Mediterranean University**. In 2026, at the age of **38**, he was appointed full professor, making him one of the **youngest academics** to attain this rank in his field at the university. His research lies at the interface of quantum gravity, cosmology, particle physics, and astrophysics, with particular emphasis on quantum gravity and its implications for black hole physics and cosmology beyond their standard models.
 
 His research focuses on understanding and constraining modified theories of gravity through the observable properties of black holes and the evolution of the Universe. He has developed and refined analytical methods that are now among the most widely used for studying Hawking radiation, gravitational lensing, and black hole shadows. Across more than 200 publications, he has investigated a broad range of problems in general relativity, including black hole thermodynamics, wormholes, compact stars, Hawking radiation, and cosmological inflation. His work draws extensively on advanced techniques from mathematics, theoretical physics, and scientific computing.
 
-Prof. Övgün has been listed among the World's Top 2% Scientists in the annual Stanford University–Elsevier rankings every year from 2020 to 2024. He was also named a Highly Ranked Scholar by ScholarGPS in 2023, 2024, and 2025, placing him among the top 0.05% of approximately 30 million scholars worldwide on the basis of his exceptional research productivity, scholarly impact, and the quality of his academic work.
+Prof. Övgün has been listed among the **World's Top 2% Scientists** in the annual **Stanford University–Elsevier** rankings every year from 2020 to 2024. He was also named a H**ighly Ranked Scholar** by **ScholarGPS** in 2023, 2024, and 2025, placing him among the top 0.05% of approximately 30 million scholars worldwide on the basis of his exceptional research productivity, scholarly impact, and the quality of his academic work.
 
-In 2026, he received the Türkiye Alumni Scientific and Academic Achievements Award, presented by the Presidency for Turks Abroad and Related Communities (YTB) under the Ministry of Culture and Tourism of the Republic of Türkiye, in recognition of his distinguished scientific and academic contributions.
+In 2026, he received the **Türkiye Alumni Scientific and Academic Achievements Award**, presented by the **Presidency for Turks Abroad and Related Communities (YTB)** under the **Ministry of Culture and Tourism of the Republic of Türkiye**, in recognition of his distinguished scientific and academic contributions.
 
-Prof. Dr. Övgün has been awarded the 2026 Prof. Dr. Engin Arık Scientist Award by the Turkish Physical Society in recognition of his scientific and academic research, original contributions to physical science, international scientific collaborations, and activities aimed at training young researchers.
+Prof. Dr. Övgün has been awarded the **2026 Prof. Dr. Engin Arık Scientist** Award by the **Turkish Physical Society** in recognition of his scientific and academic research, original contributions to physical science, international scientific collaborations, and activities aimed at training young researchers.
 
-  - block: markdown
-    id: awards
-    content:
-      title: Awards & Distinctions
-      subtitle:
-      text: |-
-        - **Prof. Dr. Engin Arık Scientist Award (2026)** — Turkish Physical Society
-        - **Türkiye Alumni Scientific and Academic Achievements Award (2026)** — Presidency for Turks Abroad and Related Communities (YTB)
-        - **Publication Citation Awards (2014–2026)** — Eastern Mediterranean University
-        - **World’s Top 2% Scientists (2020–2024)** — Stanford University–Elsevier annual rankings
-        - **Top 0.05% Highly Ranked Scholar (2023–2025)** — ScholarGPS
-        - **Academic Leader Ranking in Türkiye (2021)** — Prof. Murat Alper Citation Analysis
-        - **Outstanding Reviewer for Classical & Quantum Gravity (2019)** — IOP Publishing
-        - **Top Peer Reviewer in Physics (2019)** — Web of Science/Publons
-        - **Faculty of Arts and Sciences Publication Achievement Award (2019)** — Eastern Mediterranean University
-        - **Top Peer Reviewer in Physics (2018)** — Web of Science/Publons
-        - **Faculty of Arts and Sciences Publication Achievement Award (2018)** — Eastern Mediterranean University
-    design:
-      columns: '2'
+In addition to these honours, Prof. Övgün received the **Eastern Mediterranean University Publication Citation Awards** throughout the period **2014–2026**. In 2021, he was recognized in the **Academic Leader Ranking in Türkiye** based on Prof. Murat Alper’s citation analysis. His contributions to academic publishing and peer review were acknowledged with the **IOP Publishing Outstanding Reviewer Award** for **Classical and Quantum Gravity in 2019** and **the Web of Science/Publons Top Peer Reviewer in Physics Award** in both **2018** and **2019**. He also received the **Eastern Mediterranean University** Faculty of Arts and Sciences **Publication Achievement Award** in **2018** and **2019**.
+
