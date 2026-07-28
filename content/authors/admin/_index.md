@@ -152,3 +152,23 @@ Prof. Övgün has been listed among the World's Top 2% Scientists in the annual 
 In 2026, he received the Türkiye Alumni Scientific and Academic Achievements Award, presented by the Presidency for Turks Abroad and Related Communities (YTB) under the Ministry of Culture and Tourism of the Republic of Türkiye, in recognition of his distinguished scientific and academic contributions.
 
 Prof. Dr. Övgün has been awarded the 2026 Prof. Dr. Engin Arık Scientist Award by the Turkish Physical Society in recognition of his scientific and academic research, original contributions to physical science, international scientific collaborations, and activities aimed at training young researchers.
+
+  - block: markdown
+    id: awards
+    content:
+      title: Awards & Distinctions
+      subtitle:
+      text: |-
+        - **Prof. Dr. Engin Arık Scientist Award (2026)** — Turkish Physical Society
+        - **Türkiye Alumni Scientific and Academic Achievements Award (2026)** — Presidency for Turks Abroad and Related Communities (YTB)
+        - **Publication Citation Awards (2014–2026)** — Eastern Mediterranean University
+        - **World’s Top 2% Scientists (2020–2024)** — Stanford University–Elsevier annual rankings
+        - **Top 0.05% Highly Ranked Scholar (2023–2025)** — ScholarGPS
+        - **Academic Leader Ranking in Türkiye (2021)** — Prof. Murat Alper Citation Analysis
+        - **Outstanding Reviewer for Classical & Quantum Gravity (2019)** — IOP Publishing
+        - **Top Peer Reviewer in Physics (2019)** — Web of Science/Publons
+        - **Faculty of Arts and Sciences Publication Achievement Award (2019)** — Eastern Mediterranean University
+        - **Top Peer Reviewer in Physics (2018)** — Web of Science/Publons
+        - **Faculty of Arts and Sciences Publication Achievement Award (2018)** — Eastern Mediterranean University
+    design:
+      columns: '2'
