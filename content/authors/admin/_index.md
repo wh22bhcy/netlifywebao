@@ -24,6 +24,39 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on understanding and constraining modified gravity theories through the properties of black holes and the evolution of the Universe.
 
+# Awards to show in About widget
+Awards:
+  - Prof. Dr. Engin Arık Scientist Award 2026
+Turkish Physical Society (TFD) — In recognition of original contributions to physical science, international scientific collaborations, and dedication to training young researchers.
+  - Türkiye Alumni Scientific & Academic Achievements Award 2026
+YTB — Presidency for Turks Abroad and Related Communities, Ministry of Culture and Tourism, Republic of Türkiye.
+  - EMU Publication Citation Awards
+Eastern Mediterranean Universit- IGSR Publication Citations Award 2014 – 2026
+  - EMU 2019 FAS Publication Achievement Award
+Eastern Mediterranean University — Faculty of Arts and Science Publication Achievement Award.
+2019
+  - EMU 2018 FAS Publication Achievement Award
+Eastern Mediterranean University — Faculty of Arts and Science Publication Achievement Award.
+2018
+  - World’s Top 2% Scientists
+Stanford University & Elsevier Releases — Ranked #10,000 globally (#58 in Türkiye) in 2024 & #32,000 globally (#200 in Türkiye) in 2023. Included annually from 2019 to 2024.
+2019 – 2024
+  - Top 0.05% Highly Ranked Scholar
+ScholarGPS — Named in the top 0.05% of 30 million scholars worldwide based on exceptional productivity, noteworthy impact, and quality of scholarly work.
+2023, 2024
+  - Academic Leader Ranking in Türkiye 2021
+Prof. Murat Alper Citation Analysis — Ranked among the first 6,000 academicians in Türkiye based on H-index and scientific area citations.
+ - Outstanding Reviewer for Classical & Quantum Gravity 2019
+IOP Publishing
+- Top Peer Reviewer in Physics & Peer Review Awards 2018
+Web of Science / Publons, USA
+- Top Peer Reviewer in Physics & Peer Review Awards 2019
+Web of Science / Publons, USA
+
+  
+
+
+
 
 # Interests to show in About widget
 interests:
@@ -33,7 +66,7 @@ interests:
   - Gravitational Lensing & Shadows
   - Hawking Radiation & Greybody Factors
   - Quasinormal Modes
-  - Complexity
+  - Quantum Optics in curved spacetime
 
 
 # Positions & Education to show in About widget
@@ -126,6 +159,8 @@ His research focuses on understanding and constraining modified theories of grav
 Prof. Övgün has been listed among the World’s Top 2% Scientists in the annual Stanford University–Elsevier rankings every year from 2020 to 2024. He was also named a Highly Ranked Scholar by ScholarGPS in 2023, 2024, and 2025, placing him among the top 0.05% of approximately 30 million scholars worldwide on the basis of his exceptional research productivity, scholarly impact, and the quality of his academic work.
 
 In 2026, he received the Türkiye Alumni Scientific and Academic Achievements Award, presented by the Presidency for Turks Abroad and Related Communities (YTB) under the Ministry of Culture and Tourism of the Republic of Türkiye, in recognition of his distinguished scientific and academic contributions.
+
+Prof. Dr. Övgün, has been awarded the 2026 Prof. Dr. Engin Arık Scientist Award by the Turkish Physical Society in recognition of his scientific and academic research, original contributions to physical science, international scientific collaborations, and activities aimed at training young researchers.
   
 
 {style="text-align: justify;"}
