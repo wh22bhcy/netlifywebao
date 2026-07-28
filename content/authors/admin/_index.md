@@ -24,7 +24,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on understanding and constraining modified gravity theories through the properties of black holes and the evolution of the Universe.
 
-# Awards to show in About widget
+# Interests to show in About widget
 awards:
   - title: Prof. Dr. Engin Arık Scientist Award 2026
     url: ''
