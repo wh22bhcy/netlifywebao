@@ -25,7 +25,7 @@ organizations:
 bio: My research focuses on understanding and constraining modified gravity theories through the properties of black holes and the evolution of the Universe.
 
 # Awards to show in About widget
-Awards:
+awards:
   - Prof. Dr. Engin Arık Scientist Award 2026
 Turkish Physical Society (TFD) — In recognition of original contributions to physical science, international scientific collaborations, and dedication to training young researchers.
   - Türkiye Alumni Scientific & Academic Achievements Award 2026
