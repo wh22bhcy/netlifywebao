@@ -26,37 +26,58 @@ bio: My research focuses on understanding and constraining modified gravity theo
 
 # Awards to show in About widget
 awards:
-  - Prof. Dr. Engin Arık Scientist Award 2026
-Turkish Physical Society (TFD) — In recognition of original contributions to physical science, international scientific collaborations, and dedication to training young researchers.
-  - Türkiye Alumni Scientific & Academic Achievements Award 2026
-YTB — Presidency for Turks Abroad and Related Communities, Ministry of Culture and Tourism, Republic of Türkiye.
-  - EMU Publication Citation Awards
-Eastern Mediterranean Universit- IGSR Publication Citations Award 2014 – 2026
-  - EMU 2019 FAS Publication Achievement Award
-Eastern Mediterranean University — Faculty of Arts and Science Publication Achievement Award.
-2019
-  - EMU 2018 FAS Publication Achievement Award
-Eastern Mediterranean University — Faculty of Arts and Science Publication Achievement Award.
-2018
-  - World’s Top 2% Scientists
-Stanford University & Elsevier Releases — Ranked #10,000 globally (#58 in Türkiye) in 2024 & #32,000 globally (#200 in Türkiye) in 2023. Included annually from 2019 to 2024.
-2019 – 2024
-  - Top 0.05% Highly Ranked Scholar
-ScholarGPS — Named in the top 0.05% of 30 million scholars worldwide based on exceptional productivity, noteworthy impact, and quality of scholarly work.
-2023, 2024
-  - Academic Leader Ranking in Türkiye 2021
-Prof. Murat Alper Citation Analysis — Ranked among the first 6,000 academicians in Türkiye based on H-index and scientific area citations.
- - Outstanding Reviewer for Classical & Quantum Gravity 2019
-IOP Publishing
-- Top Peer Reviewer in Physics & Peer Review Awards 2018
-Web of Science / Publons, USA
-- Top Peer Reviewer in Physics & Peer Review Awards 2019
-Web of Science / Publons, USA
-
-  
-
-
-
+  - title: Prof. Dr. Engin Arık Scientist Award 2026
+    url: ''
+    date: '2026-01-01'
+    awarder: Turkish Physical Society (TFD)
+    summary: In recognition of original contributions to physical science, international scientific collaborations, and dedication to training young researchers.
+  - title: Türkiye Alumni Scientific & Academic Achievements Award 2026
+    url: ''
+    date: '2026-01-01'
+    awarder: YTB — Presidency for Turks Abroad and Related Communities
+    summary: Ministry of Culture and Tourism, Republic of Türkiye.
+  - title: EMU Publication Citation Awards
+    url: ''
+    date: '2026-01-01'
+    awarder: Eastern Mediterranean University
+    summary: IGSR Publication Citations Award 2014 – 2026
+  - title: EMU 2019 FAS Publication Achievement Award
+    url: ''
+    date: '2019-01-01'
+    awarder: Eastern Mediterranean University
+    summary: Faculty of Arts and Science Publication Achievement Award.
+  - title: EMU 2018 FAS Publication Achievement Award
+    url: ''
+    date: '2018-01-01'
+    awarder: Eastern Mediterranean University
+    summary: Faculty of Arts and Science Publication Achievement Award.
+  - title: World’s Top 2% Scientists
+    url: ''
+    date: '2024-01-01'
+    awarder: Stanford University & Elsevier Releases
+    summary: Ranked #10,000 globally (#58 in Türkiye) in 2024 & #32,000 globally (#200 in Türkiye) in 2023. Included annually from 2019 to 2024.
+  - title: Top 0.05% Highly Ranked Scholar
+    url: ''
+    date: '2024-01-01'
+    awarder: ScholarGPS
+    summary: Named in the top 0.05% of 30 million scholars worldwide based on exceptional productivity, noteworthy impact, and quality of scholarly work.
+  - title: Academic Leader Ranking in Türkiye 2021
+    url: ''
+    date: '2021-01-01'
+    awarder: Prof. Murat Alper Citation Analysis
+    summary: Ranked among the first 6,000 academicians in Türkiye based on H-index and scientific area citations.
+  - title: Outstanding Reviewer for Classical & Quantum Gravity 2019
+    url: ''
+    date: '2019-01-01'
+    awarder: IOP Publishing
+  - title: Top Peer Reviewer in Physics & Peer Review Awards 2018
+    url: ''
+    date: '2018-01-01'
+    awarder: Web of Science / Publons, USA
+  - title: Top Peer Reviewer in Physics & Peer Review Awards 2019
+    url: ''
+    date: '2019-01-01'
+    awarder: Web of Science / Publons, USA
 
 # Interests to show in About widget
 interests:
@@ -68,16 +89,12 @@ interests:
   - Quasinormal Modes
   - Quantum Optics in curved spacetime
 
-
 # Positions & Education to show in About widget
 education:
   courses:
     - course: Professor of Theoretical Physics (appointed at age 38)
       institution: Eastern Mediterranean University
       year: 2026
-    # - course: Associate Professor of Physics
-    #   institution: Eastern Mediterranean University
-    #   year: 20XX   # <- add your associate/assistant professor years here
     - course: Research Visitor - Durmuş Demir
       institution: Sabancı University
       year: 2022-2023
@@ -116,9 +133,6 @@ education:
       year: 2006-2010
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
@@ -129,18 +143,15 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=tr&user=aG1SiFQAAAAJ&view_op=list_works&sortby=pubdate
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: graduation-cap
     icon_pack: fas
     link: https://arxiv.org/a/ovgun_a_2.html
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aovgun/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
     link: https://aovgun.weebly.com/
@@ -161,6 +172,3 @@ Prof. Övgün has been listed among the World’s Top 2% Scientists in the annua
 In 2026, he received the Türkiye Alumni Scientific and Academic Achievements Award, presented by the Presidency for Turks Abroad and Related Communities (YTB) under the Ministry of Culture and Tourism of the Republic of Türkiye, in recognition of his distinguished scientific and academic contributions.
 
 Prof. Dr. Övgün, has been awarded the 2026 Prof. Dr. Engin Arık Scientist Award by the Turkish Physical Society in recognition of his scientific and academic research, original contributions to physical science, international scientific collaborations, and activities aimed at training young researchers.
-  
-
-{style="text-align: justify;"}
