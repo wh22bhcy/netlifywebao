@@ -25,36 +25,39 @@ organizations:
 bio: My research focuses on understanding and constraining modified gravity theories through the properties of black holes and the evolution of the Universe.
 
 # Awards to show in About widget
+# Structured entries: title / awarder / summary (summary optional).
+# All values quoted so characters like #, &, : and – don't break YAML.
 awards:
-  - Prof. Dr. Engin Arık Scientist Award 2026
-    Turkish Physical Society (TFD)
-  - Türkiye Alumni Scientific & Academic Achievements Award 2026
-    YTB — Presidency for Turks Abroad and Related Communities
-    Ministry of Culture and Tourism, Republic of Türkiye.
-  - EMU Publication Citation Awards
-    IGSR Publication Citations Award 2014 – 2026
-    Eastern Mediterranean University
-  - EMU 2019 FAS Publication Achievement Award
-    Faculty of Arts and Science Publication Achievement Award.
-    Eastern Mediterranean University
-  - EMU 2018 FAS Publication Achievement Award
-    Faculty of Arts and Science Publication Achievement Award.
-    Eastern Mediterranean University
-  - World’s Top 2% Scientists
-    Stanford University & Elsevier Releases
-    Ranked #10,000 globally (#58 in Türkiye) in 2024 & #32,000 globally (#200 in Türkiye) in 2023. Included annually from 2019 to 2024.
-  - Top 0.05% Highly Ranked Scholar
-    ScholarGPS
-    Named in the top 0.05% of 30 million scholars worldwide based on exceptional productivity, noteworthy impact, and quality of scholarly work.
-  - Academic Leader Ranking in Türkiye 2021
-    Prof. Murat Alper Citation Analysis
-    Ranked among the first 6,000 academicians in Türkiye based on H-index and scientific area citations.
-  - Outstanding Reviewer for Classical & Quantum Gravity 2019
-    IOP Publishing
-  - Top Peer Reviewer in Physics & Peer Review Awards 2018
-    Web of Science / Publons, USA
-  - Top Peer Reviewer in Physics & Peer Review Awards 2019
-    Web of Science / Publons, USA
+  - title: "Prof. Dr. Engin Arık Scientist Award 2026"
+    awarder: "Turkish Physical Society (TFD)"
+    summary: "In recognition of original contributions to physical science, international scientific collaborations, and dedication to training young researchers."
+  - title: "Türkiye Alumni Scientific & Academic Achievements Award 2026"
+    awarder: "YTB — Presidency for Turks Abroad and Related Communities"
+    summary: "Ministry of Culture and Tourism, Republic of Türkiye."
+  - title: "EMU Publication Citation Awards"
+    awarder: "Eastern Mediterranean University"
+    summary: "IGSR Publication Citations Award 2014 – 2026."
+  - title: "EMU 2019 FAS Publication Achievement Award"
+    awarder: "Eastern Mediterranean University"
+    summary: "Faculty of Arts and Science Publication Achievement Award."
+  - title: "EMU 2018 FAS Publication Achievement Award"
+    awarder: "Eastern Mediterranean University"
+    summary: "Faculty of Arts and Science Publication Achievement Award."
+  - title: "World's Top 2% Scientists"
+    awarder: "Stanford University & Elsevier Releases"
+    summary: "Ranked #10,000 globally (#58 in Türkiye) in 2024 and #32,000 globally (#200 in Türkiye) in 2023. Included annually from 2019 to 2024."
+  - title: "Top 0.05% Highly Ranked Scholar"
+    awarder: "ScholarGPS"
+    summary: "Named in the top 0.05% of 30 million scholars worldwide based on exceptional productivity, noteworthy impact, and quality of scholarly work."
+  - title: "Academic Leader Ranking in Türkiye 2021"
+    awarder: "Prof. Murat Alper Citation Analysis"
+    summary: "Ranked among the first 6,000 academicians in Türkiye based on H-index and scientific area citations."
+  - title: "Outstanding Reviewer for Classical & Quantum Gravity 2019"
+    awarder: "IOP Publishing"
+  - title: "Top Peer Reviewer in Physics & Peer Review Awards 2018"
+    awarder: "Web of Science / Publons, USA"
+  - title: "Top Peer Reviewer in Physics & Peer Review Awards 2019"
+    awarder: "Web of Science / Publons, USA"
 
 # Interests to show in About widget
 interests:
@@ -144,8 +147,8 @@ Prof. Dr. Ali Övgün is a Professor of Theoretical Physics at Eastern Mediterra
 
 His research focuses on understanding and constraining modified theories of gravity through the observable properties of black holes and the evolution of the Universe. He has developed and refined analytical methods that are now among the most widely used for studying Hawking radiation, gravitational lensing, and black hole shadows. Across more than 200 publications, he has investigated a broad range of problems in general relativity, including black hole thermodynamics, wormholes, compact stars, Hawking radiation, and cosmological inflation. His work draws extensively on advanced techniques from mathematics, theoretical physics, and scientific computing.
 
-Prof. Övgün has been listed among the World’s Top 2% Scientists in the annual Stanford University–Elsevier rankings every year from 2020 to 2024. He was also named a Highly Ranked Scholar by ScholarGPS in 2023, 2024, and 2025, placing him among the top 0.05% of approximately 30 million scholars worldwide on the basis of his exceptional research productivity, scholarly impact, and the quality of his academic work.
+Prof. Övgün has been listed among the World's Top 2% Scientists in the annual Stanford University–Elsevier rankings every year from 2020 to 2024. He was also named a Highly Ranked Scholar by ScholarGPS in 2023, 2024, and 2025, placing him among the top 0.05% of approximately 30 million scholars worldwide on the basis of his exceptional research productivity, scholarly impact, and the quality of his academic work.
 
 In 2026, he received the Türkiye Alumni Scientific and Academic Achievements Award, presented by the Presidency for Turks Abroad and Related Communities (YTB) under the Ministry of Culture and Tourism of the Republic of Türkiye, in recognition of his distinguished scientific and academic contributions.
 
-Prof. Dr. Övgün, has been awarded the 2026 Prof. Dr. Engin Arık Scientist Award by the Turkish Physical Society in recognition of his scientific and academic research, original contributions to physical science, international scientific collaborations, and activities aimed at training young researchers.
+Prof. Dr. Övgün has been awarded the 2026 Prof. Dr. Engin Arık Scientist Award by the Turkish Physical Society in recognition of his scientific and academic research, original contributions to physical science, international scientific collaborations, and activities aimed at training young researchers.
