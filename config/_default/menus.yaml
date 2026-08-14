@@ -7,8 +7,8 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Research
-    url: 'https://aovgun.weebly.com/research.html'
+  - name: Bio
+    url: 'https://aovgun.weebly.com/bio.html'
     weight: 20
   - name: Members
     url: 'https://aovgun.weebly.com/members.html'
