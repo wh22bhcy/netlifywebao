@@ -13,27 +13,24 @@ main:
    - name: Research
     url: 'https://aovgun.weebly.com/research.html'
     weight: 30
-  - name: Members
-    url: 'https://aovgun.weebly.com/members.html'
-    weight: 40
   - name: Publications
     url: 'https://aovgunpublications.netlify.app/'
-    weight: 50
+    weight: 40
   - name: Press/Media
     url: 'https://aovgun.weebly.com/news.html'
-    weight: 60   
+    weight: 50   
   - name: Photos
     url: 'https://aovgun.weebly.com/photos.html'
-    weight: 70  
+    weight: 60  
   - name: Awards
     url: 'https://aovgun.weebly.com/awards.html'
-    weight: 80   
+    weight: 70   
   - name: Teaching
     url: 'https://aovgun.weebly.com/teaching.html'
-    weight: 90   
+    weight: 80   
   - name: Contact
     url: '#contact'
-    weight: 100
+    weight: 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
