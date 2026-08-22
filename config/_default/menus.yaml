@@ -10,7 +10,7 @@ main:
   - name: Bio
     url: 'https://aovgun.weebly.com/bio.html'
     weight: 20
-   - name: Research
+  - name: Research
     url: 'https://aovgun.weebly.com/research.html'
     weight: 30
   - name: Publications
